@@ -1,0 +1,7 @@
+/* Reusable navigation and footer link styling for Crisismindz */
+a{transition:color .18s ease,background .18s ease}
+.nav a{display:inline-block;padding:7px 9px;border-radius:4px;text-decoration:none}
+.nav a:hover{background:#eef2f5;color:#c84242}
+.footer a,.foot a{font-weight:700;text-decoration:none;border-bottom:1px solid transparent}
+.footer a:hover,.foot a:hover{border-bottom-color:#c84242;color:#c84242}
+.btn{text-decoration:none;box-shadow:0 7px 15px rgba(240,82,82,.16)}
